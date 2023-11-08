@@ -9,8 +9,5 @@
         <module name="SVGReader" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SVGReader" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
